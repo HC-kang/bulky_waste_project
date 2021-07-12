@@ -1,0 +1,2 @@
+# bulky_waste_project
+YG, bulky_waste_simplification_project
